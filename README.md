@@ -1,4 +1,7 @@
-# aliens-javascript
+# JavaScript & DOM Manipulation
+
+<b>Deployment Link</b>
+- https://storage.googleapis.com/aliens-ufo/index.html
 
 <b>Challenge Instructions:</b>
 
@@ -9,3 +12,7 @@ There is just one tiny problem though... our collection is too large to search t
 That's why we are hiring you. We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
 You can handle this... right? The planet Earth needs to know what we have found!
+
+# UFO Level One: Automatic Table and Date Search
+## [Enter UFO Level 1]  - https://github.com/poojanagrecha/SMU_homework/tree/master/14-%20JavaScript/UFO-level-1
+### ![header image](https://github.com/poojanagrecha/aliens-javascript/blob/main/Screen%20Shot%202020-10-30%20at%203.59.06%20PM.png)
